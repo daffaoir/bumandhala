@@ -27,7 +27,8 @@ body {
 }
 
 #footer a:hover {
-  text-decoration: none;
+  color: #fad5a0;
+  opacity: 0.6;
 }
 
 #footer a:active {
